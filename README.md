@@ -33,7 +33,7 @@ function sangwon(myself) {
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"> <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white">
 
 ## 🖱️My Github Status
-![SangwonL22's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangwonL22&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+![SangwonL22's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangwonL22&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangwonL22&layout=compact&theme=tokyonight)
 
 ## 💡 My favourite
 - study coding
