@@ -10,7 +10,7 @@ function sangwon(myself) {
   My-Tech-stack: [HTML5, CSS3, JavaScript, React],
   React_stack: [useHooks, React-router, React-qeury],
   CSS_tools: [BEM(Block Element Modifier), styled-components, tailwindCss]
-  Other_tools: [VSCode, Git, Netify]
+  Other_tools: [VSCode, Git, Netlify]
   MY-learning-futher-stacks: [TypeScirpt, Next.js, Node...]
   role-model: [Dream-coding, Ellie]
 }
